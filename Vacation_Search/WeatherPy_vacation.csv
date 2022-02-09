@@ -109,7 +109,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 332,Cam Ranh,VN,73.36,scattered clouds,11.9214,109.1591,OYO 598 Peony Hotel
 334,Bubaque,GW,78.17,clear sky,11.2833,-15.8333,"Casa Dora, Bubaque"
 336,Princeton,US,80.02,few clouds,25.5384,-80.4089,American Best Inn
-341,Nattam,IN,75.65,broken clouds,10.2333,78.2333,JPM Lodge
+341,Nattam,IN,75.65,broken clouds,10.2333,78.2333,CR Relax Home & Alagar Waters
 342,Atambua,ID,73.42,overcast clouds,-9.1061,124.8925,Pastori 1 Jemaat Polycarpus
 344,Norcasia,CO,80.02,overcast clouds,5.5778,-74.8852,Hotel Amani
 346,Cabedelo,BR,83.07,few clouds,-6.9811,-34.8339,Hotel Pigalle
@@ -123,7 +123,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 377,Vanimo,PG,79.0,broken clouds,-2.6741,141.3028,Vahmoneh Lodge Vanimo
 387,Uriangato,MX,78.89,few clouds,20.15,-101.1833,Hotel Primavera Moroleón
 388,Puerto Escondido,MX,82.99,clear sky,15.85,-97.0667,Aldea del Bazar Hotel and Spa
-389,Balabac,PH,79.79,moderate rain,7.9868,117.0645,Sing and Swing Lodge
+389,Balabac,PH,79.79,moderate rain,7.9868,117.0645,Batalla’s Lodging House
 390,Banes,CU,76.93,few clouds,20.9625,-75.7186,Hostal Iván y yailet
 391,Wajir,KE,83.91,broken clouds,1.7471,40.0573,Al-bustan Hotel And Restaurant.
 394,Clarence Town,AU,71.85,broken clouds,-32.5833,151.7833,River Downs Cottage
@@ -215,5 +215,4 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 675,Oussouye,SN,78.98,clear sky,12.485,-16.5469,Auberge du Routard
 680,Gorontalo,ID,73.44,overcast clouds,0.5412,123.0595,Maqna Hotel by Prasanthi
 682,Jaru,BR,78.44,moderate rain,-10.4389,-62.4664,Hotel Paraná
-683,Poum,NC,81.41,overcast clouds,-20.2333,164.0167,Gîte kajeon
 684,Coahuayana,MX,85.48,clear sky,18.7333,-103.6833,El rranchito michuacan de ocampos
